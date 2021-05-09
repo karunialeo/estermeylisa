@@ -68,7 +68,7 @@ body {
     box-sizing: border-box;
     top: 0;
     position: fixed;
-    border: 2px solid rgb(214, 202, 191);
+    border: 2px solid rgb(248, 220, 220);
 }
 .header .judul {
     font-size: 32px;
@@ -87,15 +87,15 @@ body {
 
 }
 .header a:hover {
-    background-color: rgb(167, 123, 86);
+    background-color: rgb(248, 220, 220);
     color: white;
 }
 .hero {
     height: 370px;
     background-image: url(img/hero.png);
     background-size: cover;
-    border-top: 5px solid rgb(167, 123, 86);
-    border-bottom: 5px solid rgb(167, 123, 86);
+    border-top: 5px solid rgb(248, 220, 220);
+    border-bottom: 5px solid rgb(248, 220, 220);
 }
 .main {
     width: 600px;
@@ -118,7 +118,7 @@ body {
     padding: 3px;
 }
 .main .penulis a:hover {
-    background-color: rgb(167, 123, 86);
+    background-color: rgb(248, 220, 220);
     color: white;
 }
 .main p {
@@ -151,11 +151,11 @@ body {
     color: inherit;
 }
 .sidebar a:hover {
-    background-color: rgb(167, 123, 86);
+    background-color: rgb(248, 220, 220);
     color: white;
 }
 .footer {
-    background-color: rgb(167, 123, 86);
+    background-color: rgb(248, 220, 220);
     color: #eaeaea;
     text-align: center;
     font-size: 12px;
